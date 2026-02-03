@@ -17,7 +17,7 @@ Dataset source: https://github.com/ICTMCG/FakeSV
 
 FakeTT
 An English TikTok misinformation dataset covering diverse topics and events with multimodal content.
-Dataset source: https://github.com/BUAAw-ML/FakeTT
+Dataset source: https://github.com/ICTMCG/FakingRecipe
 
 Please follow the original dataset licenses and usage policies when using these datasets.
 
